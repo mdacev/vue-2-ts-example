@@ -11,7 +11,7 @@ export interface StocksState {
 
 class Stock extends VuexModule implements StocksState {
   public stocks: Array<ITicker> = [];
-  public dataChart: any = null;
+  public dataChart: Array<any> = [];
 
   @Action({ rawError: true })
   public async getStocks () {

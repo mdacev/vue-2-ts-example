@@ -28,10 +28,10 @@
     private optionsBar:any = BarChart;
 
     mounted () {
-      this.optionsBar = BarChart;
       stockModule.getDatChart();
       
-    }
+    }  
+    
 
     @stock.Getter
     public setDataChart!:Array<any>;
