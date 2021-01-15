@@ -2,7 +2,7 @@ import axios from 'axios';
 import { ITicker } from '@/models/models';
 
 export const eopPrices = axios.create({
-    baseURL: 'http://192.168.0.28:8080'
+    baseURL: 'http://localhost:8080'
 })
 
 export async function getPricesAPI() : Promise<Array<ITicker>  | undefined>{
