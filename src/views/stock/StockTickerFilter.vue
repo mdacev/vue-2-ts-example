@@ -44,8 +44,8 @@ export default class HomeFilter extends Vue {
            "Date"
     ];//Hardcode Options...
 
-    filter:string="";
-    order!:string;
+    private filter:string="";
+    private order!:string;
     
 
     get fiterChanged(){

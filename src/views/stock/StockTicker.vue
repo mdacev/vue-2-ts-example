@@ -32,9 +32,9 @@
 
   export default class Stocks extends Vue {
 
-    newFilter:string='';
-    newType:string='';
-    selected!:string;
+    private newFilter:string='';
+    private newType:string='';
+    private selected!:string;
 
     mounted () {
       stockModule.getStocks();

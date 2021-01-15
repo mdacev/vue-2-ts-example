@@ -25,7 +25,7 @@
 
   export default class ChartTicker extends Vue {
 
-    optionsBar:any = BarChart;
+    private optionsBar:any = BarChart;
 
     mounted () {
       this.optionsBar = BarChart;
