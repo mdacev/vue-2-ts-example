@@ -1,0 +1,24 @@
+{
+    "data" :  [
+    {"id":1, "symb": "MSFT", "date": "2017-11-17", "high": 171.3, "low": 169.6, "open": 171.1, "close": 170.1, "volume": 233},
+    {"id":2, "symb": "APPL","date": "2017-11-20", "high": 170.5, "low": 169.5, "open": 170.2, "close": 169.9, "volume": 453 },
+    {"id":3, "symb": "GLOB","date": "2017-11-21", "high": 173.6, "low": 170.7, "open": 170.7, "close": 173.1, "volume": 200 },
+    {"id":4, "symb": "MSFT","date": "2017-11-22", "high": 175.1, "low": 173.3, "open": 173.3, "close": 174.9, "volume": 601 },
+    {"id":5, "symb": "YPF","date": "2017-11-24", "high": 175.5, "low": 174.6, "open": 175.1, "close": 174.9, "volume": 567 },
+    {"id":6, "symb": "GLOB","date": "2017-11-27", "high": 175.1, "low": 173.3, "open": 175.4, "close": 174.0, "volume": 555 },
+    {"id":7, "symb": "APPL","date": "2017-11-28", "high": 174.8, "low": 171.8, "open": 174.3, "close": 173.0, "volume": 220 },
+    {"id":8, "symb": "YPF","date": "2017-11-29", "high": 172.9, "low": 167.1, "open": 172.6, "close": 169.4, "volume": 190 },
+    {"id":9, "symb": "MSFT","date": "2017-11-30", "high": 172.1, "low": 168.4, "open": 170.4, "close": 171.8, "volume": 198 },
+    {"id":10, "symb": "YPF","date": "2017-12-01", "high": 171.6, "low": 168.5, "open": 169.9, "close": 171.0, "volume": 260 },
+    {"id":11, "symb": "APPL","date": "2017-12-04", "high": 172.6, "low": 169.6, "open": 172.4, "close": 169.8, "volume": 299 },
+    {"id":12, "symb": "GLOB","date": "2017-12-05", "high": 171.5, "low": 168.3, "open": 169.3, "close": 169.6, "volume": 405 },
+    {"id":13, "symb": "FB","date": "2017-12-06", "high": 170.1, "low": 166.4, "open": 167.5, "close": 169.0, "volume": 406 },
+    {"id":14, "symb": "MSFT","date": "2017-12-07", "high": 170.4, "low": 168.9, "open": 169.8, "close": 169.3, "volume": 474 },
+    {"id":15, "symb": "GLOB","date": "2017-12-08", "high": 171.5, "low": 168.8, "open": 170.4, "close": 169.3, "volume": 501 },
+    {"id":16, "symb": "FB","date": "2017-12-11", "high": 172.8, "low": 168.7, "open": 169.1, "close": 172.6, "volume": 300 },
+    {"id":17, "symb": "APPL","date": "2017-12-12", "high": 172.3, "low": 171.4, "open": 172.1, "close": 171.6, "volume": 309 },
+    {"id":18, "symb": "GLOB","date": "2017-12-13", "high": 173.5, "low": 172.9, "open": 172.5, "close": 172.2, "volume": 276 },
+    {"id":19, "symb": "YPF","date": "2017-12-14", "high": 173.1, "low": 171.6, "open": 172.3, "close": 172.2, "volume": 231 },
+    {"id":20, "symb": "MSFT","date": "2017-12-18", "high": 177.1, "low": 174.8, "open": 174.8, "close": 176.4, "volume": 255 }
+]
+}

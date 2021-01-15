@@ -1,0 +1,7 @@
+[
+    { "text": "Date", "value": "datetime", "class": "white--text black" },
+    { "text": "Price", "value": "price", "class": "info--text black" },
+    { "text": "Amount", "value": "amount", "class": "info--text black" },
+    { "text": "Cost", "value": "cost", "class": "info--text black" },
+    { "text": "Side", "value": "side", "class": "success--text black" }
+]
